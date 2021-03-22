@@ -17,9 +17,7 @@ import ReactDOM from 'react-dom';
 
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <h1>Hello World</h1>,
   document.getElementById('root')
 );
 
